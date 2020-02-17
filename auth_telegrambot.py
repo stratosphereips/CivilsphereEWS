@@ -1,0 +1,2 @@
+telegramtoken          = ''
+telegramchannel        = ''
